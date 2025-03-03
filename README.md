@@ -1,5 +1,19 @@
-# 💫 About Me:
-Hello mates, I am a full stack developer specializing in React, Vue, Tailwind, Node, and Express<br><br>My Sources of Happiness:<br>- Front End Development<br>- UI & UX Design<br>- Framework Component creation<br>- Electronic Dance Music<br>- Video Game Collection<br>- Siya <br><br><br>My Hobbies:<br>🎶Listening to EDM<br>🍲Cooking varieties of food (yummers)
+# 💫 Morning Goods Fellow Dev!
+<br>
+Full Stack Developer || Computer Science Student [3.5 / 4]
+<br><br>
+Hello mates, I am a full stack developer specializing in React, Vue, Tailwind, Node, and Express
+<br><br>
+My Sources of Happiness:
+<br>- Front End Development
+<br>- UI & UX Design
+<br>- Framework Component creation
+<br>- Electronic Dance Music
+<br>- Video Game Collection
+<br>- Siya 
+<br><br><br>My Hobbies:
+<br>🎶Listening to EDM
+<br>🍲Cooking varieties of food (yummers)
 
 
 ## 🌐 Socials:
