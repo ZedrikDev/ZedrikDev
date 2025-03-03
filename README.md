@@ -3,8 +3,8 @@
 <p align="center">Full Stack Developer || Computer Science Student [3.5 / 4]</p>
 <br>
 <p align="center">Hello mates, I am a full stack developer specializing in React, Vue, Tailwind, Node, and Express</p>
-<br><br>
-![image alt](https://github.com/ZedrikDev/ZedrikDev/blob/main/bugcat.jpg?raw=true)
+<br>
+![image alt](https://raw.githubusercontent.com/ZedrikDev/ZedrikDev/main/bugcat.jpg)
 <br><br>
 My Sources of Happiness:
 <br>- Front End Development
