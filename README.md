@@ -4,7 +4,7 @@
 <br>
 <p align="center">Hello mates, I am a full stack developer specializing in React, Vue, Tailwind, Node, and Express</p>
 <br>
-![image alt](https://raw.githubusercontent.com/ZedrikDev/ZedrikDev/main/bugcat.jpg)
+![Alt text](https://raw.githubusercontent.com/ZedrikDev/ZedrikDev/main/bugcat.jpg)
 <br><br>
 My Sources of Happiness:
 <br>- Front End Development
