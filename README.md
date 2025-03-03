@@ -5,6 +5,7 @@
 <p align="center">Hello mates, I am a full stack developer specializing in React, Vue, Tailwind, Node, and Express</p>
 <br>
 ![Alt text](https://raw.githubusercontent.com/ZedrikDev/ZedrikDev/main/bugcat.jpg)
+![Image](https://github.com/user-attachments/assets/5bdefe53-49de-43a9-8b28-8b27c26ea062)
 <br><br>
 My Sources of Happiness:
 <br>- Front End Development
