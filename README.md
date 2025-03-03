@@ -1,8 +1,10 @@
 # 💫 Morning Goods Fellow Dev!
 <br>
-Full Stack Developer || Computer Science Student [3.5 / 4]
+<p align="center">Full Stack Developer || Computer Science Student [3.5 / 4]</p>
 <br><br>
-Hello mates, I am a full stack developer specializing in React, Vue, Tailwind, Node, and Express
+<p align="center">Hello mates, I am a full stack developer specializing in React, Vue, Tailwind, Node, and Express</p>
+<br><br>
+![Image](https://github.com/user-attachments/assets/a0b206f0-16f1-4d38-83f9-eb308c65998c)
 <br><br>
 My Sources of Happiness:
 <br>- Front End Development
@@ -11,7 +13,7 @@ My Sources of Happiness:
 <br>- Electronic Dance Music
 <br>- Video Game Collection
 <br>- Siya 
-<br><br><br>My Hobbies:
+<br><br>My Hobbies:
 <br>🎶Listening to EDM
 <br>🍲Cooking varieties of food (yummers)
 
